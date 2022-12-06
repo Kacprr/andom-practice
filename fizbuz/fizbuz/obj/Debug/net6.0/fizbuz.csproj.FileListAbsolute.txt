@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\fizbuz\fizbuz\obj\Debug\net6.0\fizbuz.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\fizbuz\fizbuz\obj\Debug\net6.0\fizbuz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\fizbuz\fizbuz\obj\Debug\net6.0\fizbuz.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\fizbuz\fizbuz\obj\Debug\net6.0\fizbuz.AssemblyInfo.cs
+C:\Users\Student\source\repos\fizbuz\fizbuz\obj\Debug\net6.0\fizbuz.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\fizbuz\fizbuz\bin\Debug\net6.0\fizbuz.exe
+C:\Users\Student\source\repos\fizbuz\fizbuz\bin\Debug\net6.0\fizbuz.deps.json
+C:\Users\Student\source\repos\fizbuz\fizbuz\bin\Debug\net6.0\fizbuz.runtimeconfig.json
+C:\Users\Student\source\repos\fizbuz\fizbuz\bin\Debug\net6.0\fizbuz.dll
+C:\Users\Student\source\repos\fizbuz\fizbuz\bin\Debug\net6.0\fizbuz.pdb
+C:\Users\Student\source\repos\fizbuz\fizbuz\obj\Debug\net6.0\fizbuz.dll
+C:\Users\Student\source\repos\fizbuz\fizbuz\obj\Debug\net6.0\refint\fizbuz.dll
+C:\Users\Student\source\repos\fizbuz\fizbuz\obj\Debug\net6.0\fizbuz.pdb
+C:\Users\Student\source\repos\fizbuz\fizbuz\obj\Debug\net6.0\fizbuz.genruntimeconfig.cache
+C:\Users\Student\source\repos\fizbuz\fizbuz\obj\Debug\net6.0\ref\fizbuz.dll
